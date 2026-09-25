@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-MobileNetV2-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
-[![Accuracy](https://img.shields.io/badge/Val_Accuracy-98.54%25-brightgreen.style=flat)]()
+
 
 An automated Computer Vision (CNN) deep learning classifier that detects freshness and staleness in fruits and vegetables using Transfer Learning with MobileNetV2.
 

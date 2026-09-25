@@ -27,7 +27,7 @@ The model was trained in two distinct phases (Feature Extraction & Fine-Tuning) 
 
 ---
 
-## 🛠️ Dataset
+## Dataset
 * **Source:** Kaggle (`swoyam2609/fresh-and-stale-classification`)
 * **Total Samples:** ~21,513 images (16,023 training / 5,490 validation)
 * **Classes:** Synchronized 10-class dataset covering fresh and stale varieties of apples, bananas, oranges, and vegetables.

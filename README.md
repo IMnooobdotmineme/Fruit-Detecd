@@ -38,7 +38,11 @@ The model was trained in two distinct phases (Feature Extraction & Fine-Tuning) 
 ```text
 Fruit-Detecd/
 │
+
 ├── download_data.py    # Dataset downloading script via kagglehub
 ├── train.py            # Complete training pipeline (Augmentation, MobileNetV2, Fine-Tuning)
 ├── fruit_model.h5      # Pre-trained MobileNetV2 weights (HDF5 format)
 └── README.md           # Project documentation
+
+
+** https://canva.link/q6hjqj5gvw04t7z**

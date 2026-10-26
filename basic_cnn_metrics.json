@@ -1,0 +1,7 @@
+{
+  "model": "Basic CNN (Version 3)",
+  "test_accuracy": 0.9067713618278503,
+  "test_loss": 0.2544577121734619,
+  "test_images": 2038,
+  "num_classes": 18
+}
